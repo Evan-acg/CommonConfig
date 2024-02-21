@@ -1,0 +1,4 @@
+# .eslintignore uses gitignore syntax
+# ref: https://git-scm.com/docs/gitignore#_pattern_format
+**/*.{scss, css, sass}
+**/*.{png,jpg,jpeg,gif,svg}

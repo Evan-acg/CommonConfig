@@ -1,0 +1,6 @@
+# .prettierignore uses gitingore syntax
+# ref: https://git-scm.com/docs/gitignore#_pattern_format
+
+**/*.html
+**/*.{scss, css, sass}
+**/*.{png,jpg,jpeg,gif,svg}
