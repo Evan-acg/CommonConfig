@@ -6,7 +6,7 @@ set "prettierRc=.prettierrc"
 set "prettierIgnore=.prettierignore"
 set "stylelintRc=.stylelintrc.json"
 
-set "repo=https://gitee.com/evanston_law/common-config/tree/vue/"
+set "repo=https://raw.githubusercontent.com/Evan-acg/CommonConfig/vue/"
 
 for %%i in (%eslintIgnore% %eslintRc% %prettierRc% %prettierIgnore% %stylelintRc%) do (
     echo Downloading %%i...
